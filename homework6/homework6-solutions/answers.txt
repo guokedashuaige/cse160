@@ -1,0 +1,32 @@
+Name: ...
+CSE 160
+Homework 6
+
+For each problem that requires a written answer, write (or copy-and-paste)
+your answers in this file.  When you are done, you should have replaced all
+the ellipses (the three dots) with your answers.
+
+Answer to Problem 7:
+
+The results of many trials all suggest that the Iranian election results were
+fraudulent. Here is one of the outputs where the rejection level p is smaller
+than the threshold of 0.05:
+
+2009 Iranian election MSE: 0.0007395833333333338
+Quantity of MSEs larger than or equal to the 2009 Iranian election MSE: 372
+Quantity of MSEs smaller than the 2009 Iranian election MSE: 9628
+2009 Iranian election null hypothesis rejection level p: 0.0372
+
+Answer to Problem 8:
+
+I don't think that the US election was fraudulent because the null hypothesis
+rejection level is quite high (near to 0.5). Below is a sample output for US:
+
+2008 United States election MSE: 0.00014100258760580583
+Quantity of MSEs larger than or equal to the 2008 United States  election MSE: 4759
+Quantity of MSEs smaller than the 2008 United States election MSE: 5241
+2008 United States election null hypothesis rejection level p: 0.4759
+
+Collaboration:
+
+I am very grateful for insightful discussions with Mageluer (mageluer.com).
